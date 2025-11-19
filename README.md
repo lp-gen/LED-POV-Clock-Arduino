@@ -50,6 +50,6 @@ The C++ sketch (`POV_Clock_Sketch.ino`) focuses on high-speed execution to maint
 
 ## IV. Project Media and Code
 
-[Replace this line with an image of the working clock. If you cannot embed an image, link to a hosted photo or video.]
+Will upload later
 
 **Source Code:** The complete C++ sketch is available in the file `POV_Clock_Sketch.ino`.
